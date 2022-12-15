@@ -1,0 +1,1054 @@
+[
+  {
+    "dialog_id": 0,
+    "target": true
+  },
+  {
+    "dialog_id": 1,
+    "target": false
+  },
+  {
+    "dialog_id": 2,
+    "target": true
+  },
+  {
+    "dialog_id": 3,
+    "target": false
+  },
+  {
+    "dialog_id": 4,
+    "target": false
+  },
+  {
+    "dialog_id": 5,
+    "target": false
+  },
+  {
+    "dialog_id": 6,
+    "target": false
+  },
+  {
+    "dialog_id": 7,
+    "target": false
+  },
+  {
+    "dialog_id": 8,
+    "target": false
+  },
+  {
+    "dialog_id": 9,
+    "target": false
+  },
+  {
+    "dialog_id": 10,
+    "target": false
+  },
+  {
+    "dialog_id": 11,
+    "target": false
+  },
+  {
+    "dialog_id": 12,
+    "target": false
+  },
+  {
+    "dialog_id": 13,
+    "target": true
+  },
+  {
+    "dialog_id": 14,
+    "target": false
+  },
+  {
+    "dialog_id": 15,
+    "target": false
+  },
+  {
+    "dialog_id": 16,
+    "target": true
+  },
+  {
+    "dialog_id": 17,
+    "target": true
+  },
+  {
+    "dialog_id": 18,
+    "target": false
+  },
+  {
+    "dialog_id": 19,
+    "target": false
+  },
+  {
+    "dialog_id": 20,
+    "target": true
+  },
+  {
+    "dialog_id": 21,
+    "target": false
+  },
+  {
+    "dialog_id": 22,
+    "target": false
+  },
+  {
+    "dialog_id": 23,
+    "target": true
+  },
+  {
+    "dialog_id": 24,
+    "target": true
+  },
+  {
+    "dialog_id": 25,
+    "target": true
+  },
+  {
+    "dialog_id": 26,
+    "target": false
+  },
+  {
+    "dialog_id": 27,
+    "target": false
+  },
+  {
+    "dialog_id": 28,
+    "target": false
+  },
+  {
+    "dialog_id": 29,
+    "target": false
+  },
+  {
+    "dialog_id": 30,
+    "target": false
+  },
+  {
+    "dialog_id": 31,
+    "target": false
+  },
+  {
+    "dialog_id": 32,
+    "target": false
+  },
+  {
+    "dialog_id": 33,
+    "target": false
+  },
+  {
+    "dialog_id": 34,
+    "target": false
+  },
+  {
+    "dialog_id": 35,
+    "target": false
+  },
+  {
+    "dialog_id": 36,
+    "target": false
+  },
+  {
+    "dialog_id": 37,
+    "target": false
+  },
+  {
+    "dialog_id": 38,
+    "target": false
+  },
+  {
+    "dialog_id": 39,
+    "target": true
+  },
+  {
+    "dialog_id": 40,
+    "target": false
+  },
+  {
+    "dialog_id": 41,
+    "target": false
+  },
+  {
+    "dialog_id": 42,
+    "target": false
+  },
+  {
+    "dialog_id": 43,
+    "target": true
+  },
+  {
+    "dialog_id": 44,
+    "target": false
+  },
+  {
+    "dialog_id": 45,
+    "target": false
+  },
+  {
+    "dialog_id": 46,
+    "target": true
+  },
+  {
+    "dialog_id": 47,
+    "target": false
+  },
+  {
+    "dialog_id": 48,
+    "target": true
+  },
+  {
+    "dialog_id": 49,
+    "target": false
+  },
+  {
+    "dialog_id": 50,
+    "target": false
+  },
+  {
+    "dialog_id": 51,
+    "target": false
+  },
+  {
+    "dialog_id": 52,
+    "target": true
+  },
+  {
+    "dialog_id": 53,
+    "target": false
+  },
+  {
+    "dialog_id": 54,
+    "target": false
+  },
+  {
+    "dialog_id": 55,
+    "target": true
+  },
+  {
+    "dialog_id": 56,
+    "target": true
+  },
+  {
+    "dialog_id": 57,
+    "target": false
+  },
+  {
+    "dialog_id": 58,
+    "target": false
+  },
+  {
+    "dialog_id": 59,
+    "target": true
+  },
+  {
+    "dialog_id": 60,
+    "target": true
+  },
+  {
+    "dialog_id": 61,
+    "target": false
+  },
+  {
+    "dialog_id": 62,
+    "target": false
+  },
+  {
+    "dialog_id": 63,
+    "target": false
+  },
+  {
+    "dialog_id": 64,
+    "target": false
+  },
+  {
+    "dialog_id": 65,
+    "target": false
+  },
+  {
+    "dialog_id": 66,
+    "target": false
+  },
+  {
+    "dialog_id": 67,
+    "target": false
+  },
+  {
+    "dialog_id": 68,
+    "target": false
+  },
+  {
+    "dialog_id": 69,
+    "target": true
+  },
+  {
+    "dialog_id": 70,
+    "target": false
+  },
+  {
+    "dialog_id": 71,
+    "target": false
+  },
+  {
+    "dialog_id": 72,
+    "target": true
+  },
+  {
+    "dialog_id": 73,
+    "target": true
+  },
+  {
+    "dialog_id": 74,
+    "target": false
+  },
+  {
+    "dialog_id": 75,
+    "target": false
+  },
+  {
+    "dialog_id": 76,
+    "target": false
+  },
+  {
+    "dialog_id": 77,
+    "target": false
+  },
+  {
+    "dialog_id": 78,
+    "target": false
+  },
+  {
+    "dialog_id": 79,
+    "target": false
+  },
+  {
+    "dialog_id": 80,
+    "target": true
+  },
+  {
+    "dialog_id": 81,
+    "target": false
+  },
+  {
+    "dialog_id": 82,
+    "target": false
+  },
+  {
+    "dialog_id": 83,
+    "target": false
+  },
+  {
+    "dialog_id": 84,
+    "target": false
+  },
+  {
+    "dialog_id": 85,
+    "target": false
+  },
+  {
+    "dialog_id": 86,
+    "target": false
+  },
+  {
+    "dialog_id": 87,
+    "target": false
+  },
+  {
+    "dialog_id": 88,
+    "target": false
+  },
+  {
+    "dialog_id": 89,
+    "target": false
+  },
+  {
+    "dialog_id": 90,
+    "target": false
+  },
+  {
+    "dialog_id": 91,
+    "target": false
+  },
+  {
+    "dialog_id": 92,
+    "target": false
+  },
+  {
+    "dialog_id": 93,
+    "target": false
+  },
+  {
+    "dialog_id": 94,
+    "target": false
+  },
+  {
+    "dialog_id": 95,
+    "target": false
+  },
+  {
+    "dialog_id": 96,
+    "target": false
+  },
+  {
+    "dialog_id": 97,
+    "target": false
+  },
+  {
+    "dialog_id": 98,
+    "target": true
+  },
+  {
+    "dialog_id": 99,
+    "target": false
+  },
+  {
+    "dialog_id": 100,
+    "target": false
+  },
+  {
+    "dialog_id": 101,
+    "target": false
+  },
+  {
+    "dialog_id": 102,
+    "target": true
+  },
+  {
+    "dialog_id": 103,
+    "target": false
+  },
+  {
+    "dialog_id": 104,
+    "target": false
+  },
+  {
+    "dialog_id": 105,
+    "target": true
+  },
+  {
+    "dialog_id": 106,
+    "target": true
+  },
+  {
+    "dialog_id": 107,
+    "target": true
+  },
+  {
+    "dialog_id": 108,
+    "target": false
+  },
+  {
+    "dialog_id": 109,
+    "target": false
+  },
+  {
+    "dialog_id": 110,
+    "target": true
+  },
+  {
+    "dialog_id": 111,
+    "target": true
+  },
+  {
+    "dialog_id": 112,
+    "target": false
+  },
+  {
+    "dialog_id": 113,
+    "target": false
+  },
+  {
+    "dialog_id": 114,
+    "target": true
+  },
+  {
+    "dialog_id": 115,
+    "target": false
+  },
+  {
+    "dialog_id": 116,
+    "target": false
+  },
+  {
+    "dialog_id": 117,
+    "target": false
+  },
+  {
+    "dialog_id": 118,
+    "target": false
+  },
+  {
+    "dialog_id": 119,
+    "target": true
+  },
+  {
+    "dialog_id": 120,
+    "target": false
+  },
+  {
+    "dialog_id": 121,
+    "target": true
+  },
+  {
+    "dialog_id": 122,
+    "target": true
+  },
+  {
+    "dialog_id": 123,
+    "target": true
+  },
+  {
+    "dialog_id": 124,
+    "target": false
+  },
+  {
+    "dialog_id": 125,
+    "target": false
+  },
+  {
+    "dialog_id": 126,
+    "target": false
+  },
+  {
+    "dialog_id": 127,
+    "target": false
+  },
+  {
+    "dialog_id": 128,
+    "target": false
+  },
+  {
+    "dialog_id": 129,
+    "target": true
+  },
+  {
+    "dialog_id": 130,
+    "target": true
+  },
+  {
+    "dialog_id": 131,
+    "target": false
+  },
+  {
+    "dialog_id": 132,
+    "target": false
+  },
+  {
+    "dialog_id": 133,
+    "target": false
+  },
+  {
+    "dialog_id": 134,
+    "target": false
+  },
+  {
+    "dialog_id": 135,
+    "target": false
+  },
+  {
+    "dialog_id": 136,
+    "target": false
+  },
+  {
+    "dialog_id": 137,
+    "target": true
+  },
+  {
+    "dialog_id": 138,
+    "target": false
+  },
+  {
+    "dialog_id": 139,
+    "target": false
+  },
+  {
+    "dialog_id": 140,
+    "target": false
+  },
+  {
+    "dialog_id": 141,
+    "target": false
+  },
+  {
+    "dialog_id": 142,
+    "target": true
+  },
+  {
+    "dialog_id": 143,
+    "target": false
+  },
+  {
+    "dialog_id": 144,
+    "target": false
+  },
+  {
+    "dialog_id": 145,
+    "target": true
+  },
+  {
+    "dialog_id": 146,
+    "target": true
+  },
+  {
+    "dialog_id": 147,
+    "target": false
+  },
+  {
+    "dialog_id": 148,
+    "target": false
+  },
+  {
+    "dialog_id": 149,
+    "target": false
+  },
+  {
+    "dialog_id": 150,
+    "target": false
+  },
+  {
+    "dialog_id": 151,
+    "target": false
+  },
+  {
+    "dialog_id": 152,
+    "target": true
+  },
+  {
+    "dialog_id": 153,
+    "target": false
+  },
+  {
+    "dialog_id": 154,
+    "target": true
+  },
+  {
+    "dialog_id": 155,
+    "target": false
+  },
+  {
+    "dialog_id": 156,
+    "target": true
+  },
+  {
+    "dialog_id": 157,
+    "target": false
+  },
+  {
+    "dialog_id": 158,
+    "target": true
+  },
+  {
+    "dialog_id": 159,
+    "target": false
+  },
+  {
+    "dialog_id": 160,
+    "target": false
+  },
+  {
+    "dialog_id": 161,
+    "target": true
+  },
+  {
+    "dialog_id": 162,
+    "target": false
+  },
+  {
+    "dialog_id": 163,
+    "target": true
+  },
+  {
+    "dialog_id": 164,
+    "target": false
+  },
+  {
+    "dialog_id": 165,
+    "target": false
+  },
+  {
+    "dialog_id": 166,
+    "target": true
+  },
+  {
+    "dialog_id": 167,
+    "target": false
+  },
+  {
+    "dialog_id": 168,
+    "target": false
+  },
+  {
+    "dialog_id": 169,
+    "target": false
+  },
+  {
+    "dialog_id": 170,
+    "target": false
+  },
+  {
+    "dialog_id": 171,
+    "target": false
+  },
+  {
+    "dialog_id": 172,
+    "target": true
+  },
+  {
+    "dialog_id": 173,
+    "target": true
+  },
+  {
+    "dialog_id": 174,
+    "target": false
+  },
+  {
+    "dialog_id": 175,
+    "target": false
+  },
+  {
+    "dialog_id": 176,
+    "target": true
+  },
+  {
+    "dialog_id": 177,
+    "target": false
+  },
+  {
+    "dialog_id": 178,
+    "target": false
+  },
+  {
+    "dialog_id": 179,
+    "target": false
+  },
+  {
+    "dialog_id": 180,
+    "target": false
+  },
+  {
+    "dialog_id": 181,
+    "target": false
+  },
+  {
+    "dialog_id": 182,
+    "target": false
+  },
+  {
+    "dialog_id": 183,
+    "target": true
+  },
+  {
+    "dialog_id": 184,
+    "target": false
+  },
+  {
+    "dialog_id": 185,
+    "target": false
+  },
+  {
+    "dialog_id": 186,
+    "target": true
+  },
+  {
+    "dialog_id": 187,
+    "target": false
+  },
+  {
+    "dialog_id": 188,
+    "target": false
+  },
+  {
+    "dialog_id": 189,
+    "target": false
+  },
+  {
+    "dialog_id": 190,
+    "target": false
+  },
+  {
+    "dialog_id": 191,
+    "target": true
+  },
+  {
+    "dialog_id": 192,
+    "target": false
+  },
+  {
+    "dialog_id": 193,
+    "target": false
+  },
+  {
+    "dialog_id": 194,
+    "target": false
+  },
+  {
+    "dialog_id": 195,
+    "target": false
+  },
+  {
+    "dialog_id": 196,
+    "target": false
+  },
+  {
+    "dialog_id": 197,
+    "target": false
+  },
+  {
+    "dialog_id": 198,
+    "target": true
+  },
+  {
+    "dialog_id": 199,
+    "target": false
+  },
+  {
+    "dialog_id": 200,
+    "target": false
+  },
+  {
+    "dialog_id": 201,
+    "target": true
+  },
+  {
+    "dialog_id": 202,
+    "target": false
+  },
+  {
+    "dialog_id": 203,
+    "target": false
+  },
+  {
+    "dialog_id": 204,
+    "target": false
+  },
+  {
+    "dialog_id": 205,
+    "target": false
+  },
+  {
+    "dialog_id": 206,
+    "target": true
+  },
+  {
+    "dialog_id": 207,
+    "target": false
+  },
+  {
+    "dialog_id": 208,
+    "target": false
+  },
+  {
+    "dialog_id": 209,
+    "target": false
+  },
+  {
+    "dialog_id": 210,
+    "target": false
+  },
+  {
+    "dialog_id": 211,
+    "target": false
+  },
+  {
+    "dialog_id": 212,
+    "target": false
+  },
+  {
+    "dialog_id": 213,
+    "target": true
+  },
+  {
+    "dialog_id": 214,
+    "target": false
+  },
+  {
+    "dialog_id": 215,
+    "target": false
+  },
+  {
+    "dialog_id": 216,
+    "target": false
+  },
+  {
+    "dialog_id": 217,
+    "target": false
+  },
+  {
+    "dialog_id": 218,
+    "target": true
+  },
+  {
+    "dialog_id": 219,
+    "target": false
+  },
+  {
+    "dialog_id": 220,
+    "target": false
+  },
+  {
+    "dialog_id": 221,
+    "target": true
+  },
+  {
+    "dialog_id": 222,
+    "target": false
+  },
+  {
+    "dialog_id": 223,
+    "target": false
+  },
+  {
+    "dialog_id": 224,
+    "target": false
+  },
+  {
+    "dialog_id": 225,
+    "target": false
+  },
+  {
+    "dialog_id": 226,
+    "target": false
+  },
+  {
+    "dialog_id": 227,
+    "target": false
+  },
+  {
+    "dialog_id": 228,
+    "target": false
+  },
+  {
+    "dialog_id": 229,
+    "target": false
+  },
+  {
+    "dialog_id": 230,
+    "target": false
+  },
+  {
+    "dialog_id": 231,
+    "target": true
+  },
+  {
+    "dialog_id": 232,
+    "target": true
+  },
+  {
+    "dialog_id": 233,
+    "target": false
+  },
+  {
+    "dialog_id": 234,
+    "target": false
+  },
+  {
+    "dialog_id": 235,
+    "target": false
+  },
+  {
+    "dialog_id": 236,
+    "target": false
+  },
+  {
+    "dialog_id": 237,
+    "target": true
+  },
+  {
+    "dialog_id": 238,
+    "target": false
+  },
+  {
+    "dialog_id": 239,
+    "target": true
+  },
+  {
+    "dialog_id": 240,
+    "target": false
+  },
+  {
+    "dialog_id": 241,
+    "target": false
+  },
+  {
+    "dialog_id": 242,
+    "target": false
+  },
+  {
+    "dialog_id": 243,
+    "target": false
+  },
+  {
+    "dialog_id": 244,
+    "target": true
+  },
+  {
+    "dialog_id": 245,
+    "target": false
+  },
+  {
+    "dialog_id": 246,
+    "target": false
+  },
+  {
+    "dialog_id": 247,
+    "target": false
+  },
+  {
+    "dialog_id": 248,
+    "target": false
+  },
+  {
+    "dialog_id": 249,
+    "target": false
+  },
+  {
+    "dialog_id": 250,
+    "target": true
+  },
+  {
+    "dialog_id": 251,
+    "target": false
+  },
+  {
+    "dialog_id": 252,
+    "target": true
+  },
+  {
+    "dialog_id": 253,
+    "target": false
+  },
+  {
+    "dialog_id": 254,
+    "target": false
+  },
+  {
+    "dialog_id": 255,
+    "target": false
+  },
+  {
+    "dialog_id": 256,
+    "target": false
+  },
+  {
+    "dialog_id": 257,
+    "target": false
+  },
+  {
+    "dialog_id": 258,
+    "target": false
+  },
+  {
+    "dialog_id": 259,
+    "target": false
+  },
+  {
+    "dialog_id": 260,
+    "target": true
+  },
+  {
+    "dialog_id": 261,
+    "target": false
+  },
+  {
+    "dialog_id": 262,
+    "target": false
+  }
+]
